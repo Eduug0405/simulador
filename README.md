@@ -1,4 +1,4 @@
-# Contribución a la Comunidad: Explorando Fyne con el Simulador de Estacionamiento
+# Simulador de Estacionamiento aplicando conocimientos en Fyne
 
 ## Introducción
 Hola mi nombre es Eduardo Garcia y quería compartir mi experiencia al desarrollar un proyecto en Go usando la biblioteca Fyne. Este proyecto fue un simulador de estacionamiento con animaciones, una práctica que me permitió aprender bastante sobre concurrencia. Espero que este reporte les sea útil si están explorando Fyne o si simplemente buscan inspiración para sus propios proyectos.
